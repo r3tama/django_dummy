@@ -10,7 +10,7 @@ And then
 
 `docker-compose up`
 
-You should then have a container called __django_learning__ running the django server.
+You should then have a container called __django_dummy__ running the django server.
 
 ## Project Functionality 
 The project consists in a polling system that shows you in the index page the 5 most recent polls done:
