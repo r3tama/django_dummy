@@ -23,3 +23,6 @@ localhost:8000/admin
 For accessing the admin panel you will need to create a admin user with the command:
 `python manage.py createsuperuser`, you will need to run it in the docker container
 
+You can directly access the shell by executing :
+`make shell`
+
